@@ -2,4 +2,3 @@ requests
 pandas
 scipy
 pycurl
-hyperjson
