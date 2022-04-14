@@ -1,24 +1,14 @@
-import os,sys
+import os, sys, requests, json, random, datetime, time, logging, re, math, pycurl, certifi, pandas as pd
 # os.chdir(os.path.dirname(os.path.abspath(__file__)))
 # sys.path.insert(1, os.path.join(sys.path[0], '..'))
-import requests
-import pandas as pd
-# import json
-import random
-import datetime,time
-import logging
-import re
-import math
 from scipy.stats import norm
-import pycurl
-import certifi
 from numpy import random
 from time import sleep
 from pprint import pprint
 from itertools import cycle
 from itertools import islice
 from io import BytesIO
-import hyperjson as json
+# import hyperjson as json
 
 # mode ='local'
 
