@@ -21,7 +21,7 @@ But to see all beta functions You can see - [https://forum.unofficed.com/t/nsepy
 Use the package manager [pip](https://pypi.org/project/nsepython/) to install nsepython.
 
 ```bash
-pip install nsepython
+pip install --no-cache-dir -U git+https://github.com/cooltechie007/nsepython.git
 ```
 ## Documentation
 
